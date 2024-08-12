@@ -5,7 +5,9 @@
 ##  Criar a pilha usando o modelo LAMP:
 - Criar pilha
 <img src="https://github.com/V1ctor1aTorres/Creating-a-CloudFormation-Stack/blob/main/images/criar_pilha.png">
+
 - Configurar nome, senha e usuário do banco de dados.
+  
 - Configurar tipo de instância e par de chaves.
 <img src="https://github.com/V1ctor1aTorres/Creating-a-CloudFormation-Stack/blob/main/images/pilha.png">
 
